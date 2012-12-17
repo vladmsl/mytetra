@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="123">
+   <recordtable>
+    <record dir="1355630108a9kqb07bbo" crypt="0" url="" tags="rtyk" author="" id="1355630108pfps9mjhdd" ctime="20121216105508" name="fghuy" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
